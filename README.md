@@ -31,6 +31,9 @@ Key Findings
 • Visualization: Provides a graphical representation of how well the model's predictions match the actual data.
 • This project demonstrates the fundamental steps involved in building and evaluating a simple linear regression model, providing a foundation for more complex predictive modeling tasks.
 
-
+Project Structure:
+├── airtravel.csv
+├── simple_linear_regression.py
+├── README.md
 
 
